@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="380" height="100">
+    <desc iVinci="yes" version="4.6" gridStep="20" showGrid="yes" snapToGrid="yes" codePlatform="0"/>
+    <g id="Layer1" name="Layer 1" opacity="1">
+        <g id="Shape1">
+            <desc shapeID="1" type="0" basicInfo-basicType="0" basicInfo-roundedRectRadius="12" basicInfo-polygonSides="6" basicInfo-starPoints="5" bounding="rect(-26.25,-41.25,52.5,82.5)" text="" font-familyName="Gameshow" font-pixelSize="120" font-bold="0" font-underline="0" font-alignment="1" strokeStyle="0" markerStart="0" markerEnd="0" shadowEnabled="0" shadowOffsetX="0" shadowOffsetY="2" shadowBlur="4" shadowOpacity="160" blurEnabled="0" blurRadius="4" transform="matrix(1,0,0,1,36.75,49.75)" pers-center="0,0" pers-size="0,0" pers-start="0,0" pers-end="0,0" locked="0" mesh="" flag=""/>
+            <path id="shapePath1" d="M63,8.5 L63,91 L10.5,91 L10.5,8.5 L63,8.5 Z" style="stroke:none;fill-rule:evenodd;fill:#cc3333;fill-opacity:1;"/>
+        </g>
+        <g id="Shape2">
+            <desc shapeID="2" type="0" basicInfo-basicType="0" basicInfo-roundedRectRadius="12" basicInfo-polygonSides="6" basicInfo-starPoints="5" bounding="rect(-11.25,-26.25,22.5,52.5)" text="" font-familyName="Gameshow" font-pixelSize="120" font-bold="0" font-underline="0" font-alignment="1" strokeStyle="0" markerStart="0" markerEnd="0" shadowEnabled="0" shadowOffsetX="0" shadowOffsetY="2" shadowBlur="4" shadowOpacity="160" blurEnabled="0" blurRadius="4" transform="matrix(1,0,0,1,36.75,49.75)" pers-center="0,0" pers-size="0,0" pers-start="0,0" pers-end="0,0" locked="0" mesh="" flag=""/>
+            <path id="shapePath2" d="M48,53.5 L48,23.5 L25.5,23.5 L25.5,76 L33,76 L33,53.5 L48,53.5 Z" style="stroke:none;fill-rule:evenodd;fill:#ffffff;fill-opacity:1;"/>
+        </g>
+        <g id="Shape3">
+            <desc shapeID="3" type="0" basicInfo-basicType="0" basicInfo-roundedRectRadius="12" basicInfo-polygonSides="6" basicInfo-starPoints="5" bounding="rect(-3.75,-7.5,7.5,15)" text="" font-familyName="Gameshow" font-pixelSize="120" font-bold="0" font-underline="0" font-alignment="1" strokeStyle="0" markerStart="0" markerEnd="0" shadowEnabled="0" shadowOffsetX="0" shadowOffsetY="2" shadowBlur="4" shadowOpacity="160" blurEnabled="0" blurRadius="4" transform="matrix(1,0,0,1,36.75,38.5)" pers-center="0,0" pers-size="0,0" pers-start="0,0" pers-end="0,0" locked="0" mesh="" flag=""/>
+            <path id="shapePath3" d="M40.5,31 L40.5,46 L33,46 L33,31 L40.5,31 Z" style="stroke:none;fill-rule:evenodd;fill:#cc3333;fill-opacity:1;"/>
+        </g>
+        <g id="Shape4">
+            <desc shapeID="4" type="0" basicInfo-basicType="0" basicInfo-roundedRectRadius="12" basicInfo-polygonSides="6" basicInfo-starPoints="5" bounding="rect(-26.25,-41.25,52.5,82.5)" text="" font-familyName="Gameshow" font-pixelSize="120" font-bold="0" font-underline="0" font-alignment="1" strokeStyle="0" markerStart="0" markerEnd="0" shadowEnabled="0" shadowOffsetX="0" shadowOffsetY="2" shadowBlur="4" shadowOpacity="160" blurEnabled="0" blurRadius="4" transform="matrix(1,0,0,1,96.75,49.75)" pers-center="0,0" pers-size="0,0" pers-start="0,0" pers-end="0,0" locked="0" mesh="" flag=""/>
+            <path id="shapePath4" d="M123,8.5 L123,91 L70.5,91 L70.5,8.5 L123,8.5 Z" style="stroke:none;fill-rule:evenodd;fill:#cc3333;fill-opacity:1;"/>
+        </g>
+        <g id="Shape5">
+            <desc shapeID="5" type="0" basicInfo-basicType="0" basicInfo-roundedRectRadius="12" basicInfo-polygonSides="6" basicInfo-starPoints="5" bounding="rect(-11.25,-26.25,22.5,52.5)" text="" font-familyName="Gameshow" font-pixelSize="120" font-bold="0" font-underline="0" font-alignment="1" strokeStyle="0" markerStart="0" markerEnd="0" shadowEnabled="0" shadowOffsetX="0" shadowOffsetY="2" shadowBlur="4" shadowOpacity="160" blurEnabled="0" blurRadius="4" transform="matrix(1,0,0,1,96.75,49.75)" pers-center="0,0" pers-size="0,0" pers-start="0,0" pers-end="0,0" locked="0" mesh="" flag=""/>
+            <path id="shapePath5" d="M100.5,53.5 L100.5,76 L108,76 L108,23.5 L85.5,23.5 L85.5,76 L93,76 L93,53.5 L100.5,53.5 Z" style="stroke:none;fill-rule:evenodd;fill:#ffffff;fill-opacity:1;"/>
+        </g>
+        <g id="Shape6">
+            <desc shapeID="6" type="0" basicInfo-basicType="0" basicInfo-roundedRectRadius="12" basicInfo-polygonSides="6" basicInfo-starPoints="5" bounding="rect(-3.75,-7.5,7.5,15)" text="" font-familyName="Gameshow" font-pixelSize="120" font-bold="0" font-underline="0" font-alignment="1" strokeStyle="0" markerStart="0" markerEnd="0" shadowEnabled="0" shadowOffsetX="0" shadowOffsetY="2" shadowBlur="4" shadowOpacity="160" blurEnabled="0" blurRadius="4" transform="matrix(1,0,0,1,96.75,38.5)" pers-center="0,0" pers-size="0,0" pers-start="0,0" pers-end="0,0" locked="0" mesh="" flag=""/>
+            <path id="shapePath6" d="M100.5,31 L100.5,46 L93,46 L93,31 L100.5,31 Z" style="stroke:none;fill-rule:evenodd;fill:#cc3333;fill-opacity:1;"/>
+        </g>
+        <g id="Shape7">
+            <desc shapeID="7" type="0" basicInfo-basicType="0" basicInfo-roundedRectRadius="12" basicInfo-polygonSides="6" basicInfo-starPoints="5" bounding="rect(-26.25,-41.25,52.5,82.5)" text="" font-familyName="Gameshow" font-pixelSize="120" font-bold="0" font-underline="0" font-alignment="1" strokeStyle="0" markerStart="0" markerEnd="0" shadowEnabled="0" shadowOffsetX="0" shadowOffsetY="2" shadowBlur="4" shadowOpacity="160" blurEnabled="0" blurRadius="4" transform="matrix(1,0,0,1,156.75,49.75)" pers-center="0,0" pers-size="0,0" pers-start="0,0" pers-end="0,0" locked="0" mesh="" flag=""/>
+            <path id="shapePath7" d="M183,8.5 L183,91 L130.5,91 L130.5,8.5 L183,8.5 Z" style="stroke:none;fill-rule:evenodd;fill:#cc3333;fill-opacity:1;"/>
+        </g>
+        <g id="Shape8">
+            <desc shapeID="8" type="0" basicInfo-basicType="0" basicInfo-roundedRectRadius="12" basicInfo-polygonSides="6" basicInfo-starPoints="5" bounding="rect(-11.25,-26.25,22.5,52.5)" text="" font-familyName="Gameshow" font-pixelSize="120" font-bold="0" font-underline="0" font-alignment="1" strokeStyle="0" markerStart="0" markerEnd="0" shadowEnabled="0" shadowOffsetX="0" shadowOffsetY="2" shadowBlur="4" shadowOpacity="160" blurEnabled="0" blurRadius="4" transform="matrix(1,0,0,1,156.75,49.75)" pers-center="0,0" pers-size="0,0" pers-start="0,0" pers-end="0,0" locked="0" mesh="" flag=""/>
+            <path id="shapePath8" d="M153,76 L160.5,76 L160.5,53.5 L168,46 L168,23.5 L160.5,23.5 L160.5,42.25 L156.75,46 L153,42.25 L153,23.5 L145.5,23.5 L145.5,46 L153,53.5 L153,76 Z" style="stroke:none;fill-rule:evenodd;fill:#ffffff;fill-opacity:1;"/>
+        </g>
+        <g id="Shape9">
+            <desc shapeID="9" type="0" basicInfo-basicType="0" basicInfo-roundedRectRadius="12" basicInfo-polygonSides="6" basicInfo-starPoints="5" bounding="rect(-26.25,-41.25,52.5,82.5)" text="" font-familyName="Gameshow" font-pixelSize="120" font-bold="0" font-underline="0" font-alignment="1" strokeStyle="0" markerStart="0" markerEnd="0" shadowEnabled="0" shadowOffsetX="0" shadowOffsetY="2" shadowBlur="4" shadowOpacity="160" blurEnabled="0" blurRadius="4" transform="matrix(1,0,0,1,216.75,49.75)" pers-center="0,0" pers-size="0,0" pers-start="0,0" pers-end="0,0" locked="0" mesh="" flag=""/>
+            <path id="shapePath9" d="M243,8.5 L243,91 L190.5,91 L190.5,8.5 L243,8.5 Z" style="stroke:none;fill-rule:evenodd;fill:#333333;fill-opacity:1;"/>
+        </g>
+        <g id="Shape10">
+            <desc shapeID="10" type="0" basicInfo-basicType="0" basicInfo-roundedRectRadius="12" basicInfo-polygonSides="6" basicInfo-starPoints="5" bounding="rect(-11.25,-26.25,22.5,52.5)" text="" font-familyName="Gameshow" font-pixelSize="120" font-bold="0" font-underline="0" font-alignment="1" strokeStyle="0" markerStart="0" markerEnd="0" shadowEnabled="0" shadowOffsetX="0" shadowOffsetY="2" shadowBlur="4" shadowOpacity="160" blurEnabled="0" blurRadius="4" transform="matrix(1,0,0,1,216.75,49.75)" pers-center="0,0" pers-size="0,0" pers-start="0,0" pers-end="0,0" locked="0" mesh="" flag=""/>
+            <path id="shapePath10" d="M228,23.5 L205.5,23.5 L205.5,53.5 L220.5,53.5 L220.5,68.5 L213,68.5 L213,61 L205.5,61 L205.5,76 L228,76 L228,46 L213,46 L213,31 L220.5,31 L220.5,38.5 L228,38.5 L228,23.5 Z" style="stroke:none;fill-rule:evenodd;fill:#ffffff;fill-opacity:1;"/>
+        </g>
+        <g id="Shape11">
+            <desc shapeID="11" type="0" basicInfo-basicType="0" basicInfo-roundedRectRadius="12" basicInfo-polygonSides="6" basicInfo-starPoints="5" bounding="rect(-26.25,-41.25,52.5,82.5)" text="" font-familyName="Gameshow" font-pixelSize="120" font-bold="0" font-underline="0" font-alignment="1" strokeStyle="0" markerStart="0" markerEnd="0" shadowEnabled="0" shadowOffsetX="0" shadowOffsetY="2" shadowBlur="4" shadowOpacity="160" blurEnabled="0" blurRadius="4" transform="matrix(1,0,0,1,276.75,49.75)" pers-center="0,0" pers-size="0,0" pers-start="0,0" pers-end="0,0" locked="0" mesh="" flag=""/>
+            <path id="shapePath11" d="M303,8.5 L303,91 L250.5,91 L250.5,8.5 L303,8.5 Z" style="stroke:none;fill-rule:evenodd;fill:#333333;fill-opacity:1;"/>
+        </g>
+        <g id="Shape12">
+            <desc shapeID="12" type="0" basicInfo-basicType="0" basicInfo-roundedRectRadius="12" basicInfo-polygonSides="6" basicInfo-starPoints="5" bounding="rect(-3.75,-11.25,7.5,22.5)" text="" font-familyName="Gameshow" font-pixelSize="120" font-bold="0" font-underline="0" font-alignment="1" strokeStyle="0" markerStart="0" markerEnd="0" shadowEnabled="0" shadowOffsetX="0" shadowOffsetY="2" shadowBlur="4" shadowOpacity="160" blurEnabled="0" blurRadius="4" transform="matrix(1,0,0,1,284.25,64.75)" pers-center="0,0" pers-size="0,0" pers-start="0,0" pers-end="0,0" locked="0" mesh="" flag=""/>
+            <path id="shapePath12" d="M280.5,53.5 L280.5,76 L288,76 L288,53.5 L280.5,53.5 Z" style="stroke:none;fill-rule:evenodd;fill:#ffffff;fill-opacity:1;"/>
+        </g>
+        <g id="Shape13">
+            <desc shapeID="13" type="0" basicInfo-basicType="0" basicInfo-roundedRectRadius="12" basicInfo-polygonSides="6" basicInfo-starPoints="5" bounding="rect(-11.25,-26.25,22.5,52.5)" text="" font-familyName="Gameshow" font-pixelSize="120" font-bold="0" font-underline="0" font-alignment="1" strokeStyle="0" markerStart="0" markerEnd="0" shadowEnabled="0" shadowOffsetX="0" shadowOffsetY="2" shadowBlur="4" shadowOpacity="160" blurEnabled="0" blurRadius="4" transform="matrix(1,0,0,1,276.75,49.75)" pers-center="0,0" pers-size="0,0" pers-start="0,0" pers-end="0,0" locked="0" mesh="" flag=""/>
+            <path id="shapePath13" d="M280.5,53.5 L288,46 L288,23.5 L265.5,23.5 L265.5,76 L273,76 L273,53.5 L280.5,53.5 Z" style="stroke:none;fill-rule:evenodd;fill:#ffffff;fill-opacity:1;"/>
+        </g>
+        <g id="Shape14">
+            <desc shapeID="14" type="0" basicInfo-basicType="0" basicInfo-roundedRectRadius="12" basicInfo-polygonSides="6" basicInfo-starPoints="5" bounding="rect(-3.75,-7.5,7.5,15)" text="" font-familyName="Gameshow" font-pixelSize="120" font-bold="0" font-underline="0" font-alignment="1" strokeStyle="0" markerStart="0" markerEnd="0" shadowEnabled="0" shadowOffsetX="0" shadowOffsetY="2" shadowBlur="4" shadowOpacity="160" blurEnabled="0" blurRadius="4" transform="matrix(1,0,0,1,276.75,38.5)" pers-center="0,0" pers-size="0,0" pers-start="0,0" pers-end="0,0" locked="0" mesh="" flag=""/>
+            <path id="shapePath14" d="M280.5,31 L280.5,46 L273,46 L273,31 L280.5,31 Z" style="stroke:none;fill-rule:evenodd;fill:#333333;fill-opacity:1;"/>
+        </g>
+        <g id="Shape15">
+            <desc shapeID="15" type="0" basicInfo-basicType="0" basicInfo-roundedRectRadius="12" basicInfo-polygonSides="6" basicInfo-starPoints="5" bounding="rect(-26.25,-41.25,52.5,82.5)" text="" font-familyName="Gameshow" font-pixelSize="120" font-bold="0" font-underline="0" font-alignment="1" strokeStyle="0" markerStart="0" markerEnd="0" shadowEnabled="0" shadowOffsetX="0" shadowOffsetY="2" shadowBlur="4" shadowOpacity="160" blurEnabled="0" blurRadius="4" transform="matrix(1,0,0,1,336.75,49.75)" pers-center="0,0" pers-size="0,0" pers-start="0,0" pers-end="0,0" locked="0" mesh="" flag=""/>
+            <path id="shapePath15" d="M363,8.5 L363,91 L310.5,91 L310.5,8.5 L363,8.5 Z" style="stroke:none;fill-rule:evenodd;fill:#333333;fill-opacity:1;"/>
+        </g>
+        <g id="Shape16">
+            <desc shapeID="16" type="0" basicInfo-basicType="0" basicInfo-roundedRectRadius="12" basicInfo-polygonSides="6" basicInfo-starPoints="5" bounding="rect(-11.25,-26.25,22.5,52.5)" text="" font-familyName="Gameshow" font-pixelSize="120" font-bold="0" font-underline="0" font-alignment="1" strokeStyle="0" markerStart="0" markerEnd="0" shadowEnabled="0" shadowOffsetX="0" shadowOffsetY="2" shadowBlur="4" shadowOpacity="160" blurEnabled="0" blurRadius="4" transform="matrix(1,0,0,1,336.75,49.75)" pers-center="0,0" pers-size="0,0" pers-start="0,0" pers-end="0,0" locked="0" mesh="" flag=""/>
+            <path id="shapePath16" d="M348,23.5 L325.5,23.5 L325.5,76 L348,76 L348,61 L340.5,61 L340.5,68.5 L333,68.5 L333,31 L340.5,31 L340.5,38.5 L348,38.5 L348,23.5 Z" style="stroke:none;fill-rule:evenodd;fill:#ffffff;fill-opacity:1;"/>
+        </g>
+    </g>
+</svg>
